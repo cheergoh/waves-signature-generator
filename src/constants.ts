@@ -44,7 +44,7 @@ export const enum TRANSACTION_TYPE_VERSION {
     SPONSORSHIP = 1
 }
 
-export const WAVES_ID = 'WAVES';
+export const WAVES_ID = 'Es12FoDTC8bK954BLwzaDvdWMf4hqcQJ3DxEsZkDyAYj';
 export const WAVES_BLOCKCHAIN_ID = '';
 
 export const MAINNET_BYTE: number = 'W'.charCodeAt(0);
